@@ -31,7 +31,7 @@ git clone https://github.com/dalbrechtmartin/Scramblin.git
 
 ## 📅 Created by
 
-👤 Martin Dalbrecht – CNAM Student (2025)
+👤 ALBRECHT--MARTIN Danaé – CNAM Student (2025)
 
 ## 📜 License
 
